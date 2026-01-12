@@ -40,7 +40,7 @@ describe('Pruebas de Mocking con vi.spyOn(global, "fetch")', () => {
         // --- ACT (Ejecución) ---
         
         const userIdToTest = 4;
-        const result = await fetchUserPosts(userIdToTest); // Ejecuta la función que llama a fetchngfythygfgfg
+        const result = await fetchUserPosts(userIdToTest); // Ejecuta la función que llama a fetch
 
 
         // --- ASSERT (Verificación) ---
